@@ -1,4 +1,4 @@
-## Instalacion Biopython
+## Instalacion Biopython para Mac
 
 Primero abrimos la terminal.
  
