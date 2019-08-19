@@ -1,4 +1,4 @@
-## Instalacion PIP
+## Instalacion PIP para Mac
 
 Primero abrimos la terminal.
  
