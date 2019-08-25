@@ -1,4 +1,4 @@
-# bioperl
+# Instalación de bioperl
 
 primero ocupamos instalar CPAN el cual nos ayudara a manejar e instalar los modulos Perl, este se instala con el comando 
  
